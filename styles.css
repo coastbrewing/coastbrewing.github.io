@@ -1,0 +1,77 @@
+
+/* Jeff's Headings CSS */
+
+
+BODY {
+   xmargin: 10;
+   margin-left:  70;
+   margin-right: 70;
+   margin-top: 70;
+}
+TD, TH, BODY {
+   font-family: "Arial";
+   font-size: 11pt;
+   line-height: 1.35;
+}
+
+H1, H2, H3, H4, H5, H6  { font-family: "Verdana";  }
+
+H1, H2 {
+   margin-left: -55;
+}
+
+.outsideMargin {
+   margin-left: -55;
+}
+
+DT {
+   xfont-weight: bold;
+   font-style: italic;
+}
+
+H1 {
+   font-size: 14pt;
+}
+H2 {
+   margin-top: 30;
+   font-weight: xnormal;
+   xtext-decoration: underline;
+   font-size: 11pt;
+}
+H3 {
+   margin-left: -55;
+   font-size: 10pt;
+}
+H4 {
+   margin-bottom: -10; /* was -17 */
+   font-size: 10pt;
+}
+H5, H6 {
+   margin-bottom: -17;
+}
+
+.listUnderPara {
+   margin-top: -17;
+}
+.listAfterPara {
+   margin-top: -17;
+}
+.listBelowPara {
+   margin-top: -17;
+}
+
+HR {
+   margin-top: 20;
+}
+
+.help {
+   color: green;
+   text-decoration: underline;
+}
+.hilite    { background-color: #ccffcc; font-weight: bold; }
+.hipurple  { background-color: #ccccff; font-weight: bold; }
+.higreen   { background-color: #ccffcc; font-weight: bold; }
+.hiyellow  { background-color: #ffff99; font-weight: bold; }
+
+.pagetopright { margin-top: -110; margin-right: -70 } /* 84 */
+

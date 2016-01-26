@@ -1,0 +1,11 @@
+
+/* Jeff's Headings CSS */
+
+
+TD, TH, BODY {
+   font-family: "Arial";
+   font-size: 11pt;
+   line-height: 1.35;
+}
+
+H1, H2, H3, H4, H5, H6  { font-family: "Verdana";  }
